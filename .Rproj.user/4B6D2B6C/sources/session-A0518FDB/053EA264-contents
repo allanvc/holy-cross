@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Japanese Pairs</title>
+    <style>
+        body {
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            width: 90%;
+            max-width: 1500px;
+            margin: auto;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            padding: 10px;
+            border: 1px solid #ccc;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Ativos jp-etfs -->
+        <img src="1329T_1321T_U2_w90.png" alt="1329T_1321T">
+        <img src="1343T_1476T_U2_w90.png" alt="1343T_1476T">
+        <img src="1364T_1599T_U2_w90.png" alt="1364T_1599T">
+        <img src="1475T_1306T_U2_w90.png" alt="1475T_1306T">
+        
+        <!-- Ativos jp-shares -->
+        <img src="3382T_2651T_U2_w90.png" alt="3382T_2651T">
+        <img src="4063T_4005T_U2_w90.png" alt="4063T_4005T">
+        <img src="6954T_6762T_U2_w90.png" alt="6954T_6762T">
+        <img src="8035T_6857T_U2_w90.png" alt="8035T_6857T">
+        <img src="8058T_8001T_U2_w90.png" alt="8058T_8001T">
+        <img src="9433T_9984T_U2_w90.png" alt="9433T_9984T">
+    </div>
+</body>
+</html>
