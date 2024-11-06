@@ -254,7 +254,7 @@ $$\Delta y_t = \alpha + \theta t + \gamma y_{t-1} + \delta_1 \Delta y_{t-1} + \d
 ---
 ###<font color =#4C5455><code>Cointegration strategy: __trading__</code></font>
 
-> Trading signals are generated based on the standard deviations of the spread $\hat{y_t} - \hat{\beta_1} x_t$
+> Trading signals are generated based on the standard deviations of the spread $y_t - \hat{\beta_1} x_t$
 
 .pull-left[
 

@@ -1,9 +1,9 @@
 {
     "id": "74A8F5E4",
-    "path": "~/Documents/teaching/HolyCross/presentation/index.Rmd",
+    "path": "~/Documents/teaching/HolyCross/presentation/holy-cross/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "356067095",
+    "hash": "626691218",
     "contents": "",
     "dirty": false,
     "created": 1730839187322.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "542,90",
-        "scrollLine": "535",
+        "cursorPosition": "256,83",
+        "scrollLine": "249",
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730846320,
+    "lastKnownWriteTime": 1730866626,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730846320115,
+    "last_content_update": 1730866626366,
     "read_only": false,
     "read_only_alternatives": []
 }
