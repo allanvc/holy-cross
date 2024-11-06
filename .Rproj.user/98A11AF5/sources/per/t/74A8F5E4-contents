@@ -531,7 +531,7 @@ class: inverse, center, middle
 > More than 10 years of data: __`01-01-2014 - 05-10-2024`__ <br><br>
 
 --
-> Backtest consisted of sliding window with size 90 (forming `[t-1]`/decision `[t]`/trading `[t+1]` periods) <br><br>
+> Backtest consisted of a sliding window approach (forming | decision | trading periods) <br><br>
 
 --
 > The algorithm was implemented in R

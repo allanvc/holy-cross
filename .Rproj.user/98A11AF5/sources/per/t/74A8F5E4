@@ -3,7 +3,7 @@
     "path": "~/Documents/teaching/HolyCross/presentation/holy-cross/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "626691218",
+    "hash": "2213228110",
     "contents": "",
     "dirty": false,
     "created": 1730839187322.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "256,83",
-        "scrollLine": "249",
+        "cursorPosition": "533,80",
+        "scrollLine": "522",
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730866626,
+    "lastKnownWriteTime": 1730897324,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730866626366,
+    "last_content_update": 1730897324678,
     "read_only": false,
     "read_only_alternatives": []
 }
